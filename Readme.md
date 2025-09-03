@@ -2,7 +2,7 @@
 <h3 align="center">A passionate tech student from Jaipur, Rajasthan (India)</h3>
 
 <p align="left"> <a href="https://twitter.com/b_nitya_18" target="blank"><img src="https://img.shields.io/twitter/follow/b_nitya_18?logo=twitter&style=for-the-badge" alt="b_nitya_18" /></a> </p>
-<p align="centre"> <a href="https://www.instagram.com/b_nitya_18" target="blank"><img src="https://img.shields.io/twitter/follow/b_nitya_18?logo=twitter&style=for-the-badge" alt="b_nitya_18" /></a> </p>
+<p align="centre"> <a href="https://www.instagram.com/b_nitya_18" target="blank"><img src="https://img.shields.io/badge/Instagram-%40b_nitya_18-E4405F?logo=instagram&logoColor=white" alt="b_nitya_18" /></a> </p>
 
 - 🔭 I’m currently working on **AI/ML applications, and software engineering concepts**
 
